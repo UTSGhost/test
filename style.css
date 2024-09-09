@@ -28,3 +28,9 @@ div {
     margin-bottom: 10px;
     
 }
+
+
+header {
+    position: fixed;
+    height: 14vh;
+}
